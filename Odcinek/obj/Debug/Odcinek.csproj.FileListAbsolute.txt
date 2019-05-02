@@ -1,0 +1,10 @@
+C:\Users\Tomek\Desktop\Projekt1 Odcinek\Odcinek\bin\Debug\Odcinek.exe.config
+C:\Users\Tomek\Desktop\Projekt1 Odcinek\Odcinek\bin\Debug\Odcinek.exe
+C:\Users\Tomek\Desktop\Projekt1 Odcinek\Odcinek\bin\Debug\Odcinek.pdb
+C:\Users\Tomek\Desktop\Projekt1 Odcinek\Odcinek\obj\Debug\Odcinek.csprojResolveAssemblyReference.cache
+C:\Users\Tomek\Desktop\Projekt1 Odcinek\Odcinek\obj\Debug\Odcinek.Form1.resources
+C:\Users\Tomek\Desktop\Projekt1 Odcinek\Odcinek\obj\Debug\Odcinek.Properties.Resources.resources
+C:\Users\Tomek\Desktop\Projekt1 Odcinek\Odcinek\obj\Debug\Odcinek.csproj.GenerateResource.cache
+C:\Users\Tomek\Desktop\Projekt1 Odcinek\Odcinek\obj\Debug\Odcinek.csproj.CoreCompileInputs.cache
+C:\Users\Tomek\Desktop\Projekt1 Odcinek\Odcinek\obj\Debug\Odcinek.exe
+C:\Users\Tomek\Desktop\Projekt1 Odcinek\Odcinek\obj\Debug\Odcinek.pdb
